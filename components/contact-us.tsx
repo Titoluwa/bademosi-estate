@@ -23,7 +23,7 @@ export default function ContactUs() {
     };
 
     return (
-        <section id="contact" className="relative w-full overflow-auto rounded-md mx-auto max-w-6xl my-24">
+        <section id="contactus" className="relative w-full overflow-auto rounded-md mx-auto max-w-6xl my-24">
             <div 
                 className="flex flex-col md:flex-row h-[500px] bg-cover mx-4" 
                 style={{ backgroundImage: `url('/images/host-agent.png')` }}

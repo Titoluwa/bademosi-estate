@@ -29,24 +29,23 @@ export default function HeroSection() {
           </motion.div>
         </motion.div>
       </div>
-      {/* <motion.div className="max-w-7xl mx-auto px-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2, duration: 0.8 }}>
-        <div className="max-w-3xl pt-56 animate-slide-up">
-          <h1 className="text-5xl font-bold mb-4 animate-fade-in">
-            Stay, Relax, <span className="text-[#FF5A3C]">Enjoy!</span>
-          </h1>
-          <p className="text-xl text-gray-600 mb-8 animate-fade-in delay-200">
-            Find the perfect shortlet for your next stay—seamless booking, unbeatable comfort.
-          </p>
-          <Button variant="default" className="mt-12 bg-[#FF5A3C] hover:bg-transparent hover:border-[#FF5A3C] border border-[#1E2A49] animate-bounce-once">
-            Book Now <ArrowBigRightDash />
-          </Button>
-        </div>        
-      </motion.div> */}
     </div>
   )
 }
 // Your perfect short-term rental experience starts here. 
-
+{/* <motion.div className="max-w-7xl mx-auto px-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2, duration: 0.8 }}>
+  <div className="max-w-3xl pt-56 animate-slide-up">
+    <h1 className="text-5xl font-bold mb-4 animate-fade-in">
+      Stay, Relax, <span className="text-[#FF5A3C]">Enjoy!</span>
+    </h1>
+    <p className="text-xl text-gray-600 mb-8 animate-fade-in delay-200">
+      Find the perfect shortlet for your next stay—seamless booking, unbeatable comfort.
+    </p>
+    <Button variant="default" className="mt-12 bg-[#FF5A3C] hover:bg-transparent hover:border-[#FF5A3C] border border-[#1E2A49] animate-bounce-once">
+      Book Now <ArrowBigRightDash />
+    </Button>
+  </div>        
+</motion.div> */}
 {/* <motion.div  className="max-w-3xl pt-56" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
 <motion.h1 className="text-5xl font-bold mb-4" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2, duration: 0.8 }}>
   Stay, Relax, 
