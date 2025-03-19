@@ -70,7 +70,7 @@ export default function FeaturedHouses() {
             hidden: { opacity: 0 },
             visible: { opacity: 1, transition: { staggerChildren: 0.2 } },
           }}
-          className="grid md:grid-cols-4 gap-6"
+          className="grid md:grid-cols-2 lg:grid-cols-4 gap-6"
         >
           {properties.map((property, index) => (
             <motion.div

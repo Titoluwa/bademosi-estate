@@ -21,7 +21,7 @@ export default function HeroSection() {
           </motion.p>
 
           <motion.div className="mt-14" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5, duration: 0.3 }} whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-            <a href="#rooms">
+            <a href="#apartments">
             <Button variant="default" className="bg-[#FF5A3C] text-white font-[400] hover:text-[#1E2A49] hover:bg-transparent hover:border-[#FF5A3C] border border-[#1E2A49]">
               Book Now <FaRegBookmark />
             </Button>
