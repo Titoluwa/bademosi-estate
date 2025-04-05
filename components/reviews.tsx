@@ -32,7 +32,7 @@ export default function Reviews() {
         {
             id: 1,
             quote: "The Most Comfortable Place Ever",
-            text: "I found Krad and they are very comfortable, I never have to leave my work or home.",
+            text: "I found KRAD and they are very comfortable, I never have to leave my work or home.",
             author: "Paul Cooper",
             role: "Landlord.",
             avatar: "/images/ihome.svg?height=50&width=50",
@@ -59,7 +59,7 @@ export default function Reviews() {
         {
             id: 4,
             quote: "Exceptional Service",
-            text: "Krad has transformed how I view on my rest. The apatment is intuitive and their support team is always available when I need assistance.",
+            text: "KRAD has transformed how I view on my rest. The apatment is intuitive and their support team is always available when I need assistance.",
             author: "James Wilson",
             role: "Traveler.",
             avatar: "/images/ihome.svg?height=50&width=50",
@@ -87,7 +87,7 @@ export default function Reviews() {
         {
             id: 7,
             quote: "Beautiful Enviroment",
-            text: "Krad has transformed how I view my rest. The apatment is intuitive and their support team is always available when I need assistance.",
+            text: "KRAD has transformed how I view my rest. The apatment is intuitive and their support team is always available when I need assistance.",
             author: "Adewale Wilson",
             role: "Tourist.",
             avatar: "/images/ihome.svg?height=50&width=50",

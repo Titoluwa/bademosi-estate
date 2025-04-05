@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Krad Apartments and Suites',
+  title: 'KRAD Apartments and Suites',
   description: "HOME away from Home",
   icons: {
-    icon: "/favicon.png", // or "/favicon.png"
+    icon: "/faviconn.png", // or "/favicon.png"
   },
 };
 
