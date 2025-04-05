@@ -8,9 +8,9 @@ export default function Footer() {
           <div>
             <h3 className="text-2xl font-bold mb-4">
               {/* MI<span className="text-[#FF5A3C]">Casa</span> */}
-              Ba<span className="text-[#FF5A3C]">demosi</span>
+              K<span className="text-[#FF5A3C]">RAD</span>
             </h3>
-            <p className="text-gray-400">Your trusted partner in real estate solutions</p>
+            <p className="text-gray-400">Apartment and Suites</p>
           </div>
 
           <div>
